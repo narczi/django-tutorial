@@ -5,6 +5,7 @@
 __pycache__
 db.sqlite3
 media
+mysite/__pycache__/urls.cpython-310.pyc
 
 # Backup files # 
 *.bak 
